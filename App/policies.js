@@ -16,5 +16,5 @@ const b2cPolicies = {
             authority: "https://markdouheretssg.b2clogin.com/markdouheretssg.onmicrosoft.com/B2C_1_profileediting1"
         }
     },
-    authorityDomain: "fabrikamb2c.b2clogin.com"
+    authorityDomain: "https://markdouheretssg.b2clogin.com"
 }
